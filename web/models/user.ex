@@ -6,8 +6,9 @@ defmodule Rumbl.User do
         field :username, :string
         field :password, :string, virtual: true
         field :password_hash, :string
+        has_many :videos, Rumbl.Video
 
-    timestamps()
+        timestamps()
     end
 
     def changeset(model, params \\ :empty) do
