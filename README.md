@@ -4,4 +4,4 @@ This application allows us to record videos (hosted elsewhere) and attach commen
 
 At scale, this application is tremendously demanding because each user will record and play back comments that must be saved and served quickly so that the content stays relevant.
 
-This project came up as a suggestion from the book [Programming Phoenix] (https://pragprog.com/book/phoenix/programming-phoenix) and was developed along with its reading.
+This project came up as a suggestion from the book [_Programming Phoenix_](https://pragprog.com/book/phoenix/programming-phoenix) and was developed along with its reading.
